@@ -1,0 +1,24 @@
+.table_1 th{
+width: 120px;
+padding: 15px;
+border-radius: 5px;
+background: linear-gradient(to top, #8af004,#6ab623 );
+color: white;
+border-collapse: separate;
+empty-cells: hide;
+}
+.table_2 th{
+    width: 120px;
+    padding: 15px;
+    border-radius: 5px;
+    background: linear-gradient(45deg, #8af004,#6ab623 );
+    color: white;
+    }
+
+.table_2 td {
+    width: 120px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #d5fda2;
+    text-align: center;
+}
