@@ -1,0 +1,9 @@
+ul{ 
+    color: blue;
+    list-style-type: square;  
+    }
+body>ul{ 
+        color: red;
+        list-style-type: circle;  
+        }
+        
